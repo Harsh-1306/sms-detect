@@ -9,7 +9,7 @@ Real-time Predictions: Provides instant feedback on the classification of SMS me
 # Usage
 Navigate to the deployed application here [Streamlit.io](https://sms-detect-iygdnqgbqwdmpthka9px7g.streamlit.app/).
 Enter an SMS message in the input box.
-Click the "Classify" button to see if the message is classified as spam or not.
+Click the "Predict" button to see if the message is classified as spam or not.
 
 
 # Model
